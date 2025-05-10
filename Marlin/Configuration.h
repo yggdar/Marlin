@@ -1208,7 +1208,7 @@
  *                                      X, Y, Z [, I [, J [, K]]], E0 [, E1[, E2...]]
  * Updated E Steps to 382.14 for CR-10 V3 Direct Drive
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.27, 79.86, 396.00, 406 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.27, 79.86, 400.00, 406 }
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
